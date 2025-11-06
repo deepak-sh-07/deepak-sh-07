@@ -36,40 +36,6 @@ VS Code · Figma · Chrome DevTools · ESLint · Prettier
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🟣 [MeshBeat – Multi-Device Audio Sync Platform](https://meshbeat.vercel.app)
-> Real-time synchronized music playback across devices with host-listener roles.
-- ⚙️ Tech: Next.js, Node.js, PostgreSQL, Prisma, Socket.IO, AWS S3  
-- 🧩 Achieved **95% playback timing accuracy** using WebSocket sync  
-- ☁️ Deployed on **Vercel + Render** for full-stack scalability  
-
-#### 🟢 [Smart Splitter – Group Expense Manager](https://github.com/deepak-sh-07/Smart-Splitter)
-> Automates group expense tracking and balance reconciliation in real time.
-- ⚙️ Tech: React.js, Node.js, Express, MongoDB, JWT, Bcrypt  
-- 🔒 Implemented **JWT-based authentication** and encrypted user data  
-- 💰 Reduced manual reconciliation by **80%**  
-
-#### 🔵 [Fitness Tracker – Interactive Analytics Dashboard](https://github.com/deepak-sh-07/Fitness-Tracker)
-> Visualizes workout progress and exercise performance with dynamic charts.
-- ⚙️ Tech: React.js, Tailwind CSS, Recharts, Zustand  
-- 📊 Built responsive dashboards with **real-time progress visualization**
-
----
-
-### 🎓 Certifications
-- **Stanford University (Feb 2025)** – *Divide & Conquer, Sorting & Searching, Randomized Algorithms*  
-- **Stanford University (Feb 2025)** – *Graph Search, Shortest Paths, and Data Structures*
-
----
-
-### 🎓 Education
-**Rayat Bahra University, Mohali, Punjab** — *B.Tech in Computer Science and Engineering*  
-📅 *Expected May 2027* | 🎯 *CGPA: 8.1 / 10*  
-Relevant Coursework: DSA, Web Dev, DBMS, OOP, OS, Software Engineering
-
----
-
 ### ⚡ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepak-sh-07&show_icons=true&theme=react" alt="Deepak's GitHub stats" height="165"/>
