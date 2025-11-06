@@ -1,27 +1,89 @@
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="center">“Full-Stack Web Developer | React & Node.js Enthusiast | Building Scalable & Interactive Web Applications”</h3>
+<h3 align="center">Full-Stack Web Developer | React & Node.js | Building Real-Time & Scalable Web Apps</h3>
 
+---
 
-- 🌱 I’m currently learning **Next.js , NextAuth.js , JWT Authentication Bcrypt , Git & GitHub (branches, PRs, merges, forking)**
+### 👨‍💻 About Me
+- 🚀 Full-stack developer skilled in **React, Next.js, Node.js, and PostgreSQL**  
+- 💡 Passionate about **real-time systems**, **clean architecture**, and **AI-assisted development**  
+- 🧠 Solved **450+ DSA problems**, strengthening analytical and optimization skills  
+- 🌱 Currently exploring **NextAuth.js, Prisma ORM, and scalable deployments on AWS & Render**  
+- 💬 Ask me about **React, Node.js, Prisma, and system design**  
+- 📫 Reach me at: **deepakshar661@gmail.com**  
+- 🔗 [LinkedIn](https://linkedin.com/in/deepak-sharma-aa22892b7) | [GitHub](https://github.com/deepak-sh-07)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/deepak-sh-07](https://github.com/deepak-sh-07)
+---
 
-- 💬 Ask me about **DSA ,MERN stack**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **deepakshar661@gmail.com**
+**Frontend:**  
+React.js · Next.js · Tailwind CSS · Shadcn/UI · Framer Motion · Responsive Design  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deepak_sh_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak_sh_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak-sharma-aa22892b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-sharma-aa22892b7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_deepak123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_deepak123/" height="30" width="40" /></a>
+**Backend:**  
+Node.js · Express.js · REST APIs · NextAuth.js · JWT Authentication  
+
+**Database & ORM:**  
+PostgreSQL · MongoDB · Prisma · Neon  
+
+**Real-Time:**  
+WebSockets · Socket.IO  
+
+**Cloud & DevOps:**  
+AWS S3 · Vercel · Render · Git & GitHub  
+
+**Developer Tools:**  
+VS Code · Figma · Chrome DevTools · ESLint · Prettier  
+
+---
+
+### 🚀 Featured Projects
+
+#### 🟣 [MeshBeat – Multi-Device Audio Sync Platform](https://meshbeat.vercel.app)
+> Real-time synchronized music playback across devices with host-listener roles.
+- ⚙️ Tech: Next.js, Node.js, PostgreSQL, Prisma, Socket.IO, AWS S3  
+- 🧩 Achieved **95% playback timing accuracy** using WebSocket sync  
+- ☁️ Deployed on **Vercel + Render** for full-stack scalability  
+
+#### 🟢 [Smart Splitter – Group Expense Manager](https://github.com/deepak-sh-07/Smart-Splitter)
+> Automates group expense tracking and balance reconciliation in real time.
+- ⚙️ Tech: React.js, Node.js, Express, MongoDB, JWT, Bcrypt  
+- 🔒 Implemented **JWT-based authentication** and encrypted user data  
+- 💰 Reduced manual reconciliation by **80%**  
+
+#### 🔵 [Fitness Tracker – Interactive Analytics Dashboard](https://github.com/deepak-sh-07/Fitness-Tracker)
+> Visualizes workout progress and exercise performance with dynamic charts.
+- ⚙️ Tech: React.js, Tailwind CSS, Recharts, Zustand  
+- 📊 Built responsive dashboards with **real-time progress visualization**
+
+---
+
+### 🎓 Certifications
+- **Stanford University (Feb 2025)** – *Divide & Conquer, Sorting & Searching, Randomized Algorithms*  
+- **Stanford University (Feb 2025)** – *Graph Search, Shortest Paths, and Data Structures*
+
+---
+
+### 🎓 Education
+**Rayat Bahra University, Mohali, Punjab** — *B.Tech in Computer Science and Engineering*  
+📅 *Expected May 2027* | 🎯 *CGPA: 8.1 / 10*  
+Relevant Coursework: DSA, Web Dev, DBMS, OOP, OS, Software Engineering
+
+---
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak-sh-07&show_icons=true&theme=react" alt="Deepak's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-sh-07&theme=react" alt="GitHub Streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-sh-07&layout=compact&theme=react" alt="Top Languages" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-sh-07&show_icons=true&locale=en&layout=compact" alt="deepak-sh-07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-sh-07&show_icons=true&locale=en" alt="deepak-sh-07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-sh-07&" alt="deepak-sh-07" /></p>
+### 🤝 Let’s Connect
+<p align="center">
+  <a href="https://linkedin.com/in/deepak-sharma-aa22892b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Sharma-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:deepakshar661@gmail.com"><img src="https://img.shields.io/badge/Email-deepakshar661%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/deepak-sh-07"><img src="https://img.shields.io/badge/GitHub-deepak--sh--07-black?style=for-the-badge&logo=github"></a>
+</p>
