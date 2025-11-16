@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🚀 Full-stack developer skilled in **React, Next.js, Node.js, and PostgreSQL**  
 - 💡 Passionate about **real-time systems**, **clean architecture**, and **AI-assisted development**  
-- 🧠 Solved **450+ DSA problems**, strengthening analytical and optimization skills  
+- 🧠 Solved **500+ DSA problems**, strengthening analytical and optimization skills  
 - 🌱 Currently exploring **NextAuth.js, Prisma ORM, and scalable deployments on AWS & Render**  
 - 💬 Ask me about **React, Node.js, Prisma, and system design**  
 - 📫 Reach me at: **deepakshar661@gmail.com**  
